@@ -138,3 +138,8 @@ form button:hover {
     background-color: var(--main-white);
     color: var(--main-blue);
 }
+.project-image {
+    height: calc(100% - 6.8rem);
+    width: 100%;
+    object-fit: cover;
+  }
